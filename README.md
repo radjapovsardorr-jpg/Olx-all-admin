@@ -91,3 +91,4 @@ npm run dev
 4. Brauzeringizda quyidagi manzilni oching:
 👉 **http://localhost:3000**
 # Admin-panel-olex-2
+# Admin-panel-olex-2
