@@ -152,7 +152,7 @@ export default function Sidebar() {
               <span className="text-[11px] text-[#7fc9cc] leading-tight truncate">{adminUser.role}</span>
             </div>
           </Link>
-          <LogoutButton />
+          
         </div>
       </div>
     </aside>
